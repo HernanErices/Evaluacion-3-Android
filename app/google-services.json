@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827484854634",
+    "firebase_url": "https://fir-mqtt-a4b71-default-rtdb.firebaseio.com",
+    "project_id": "fir-mqtt-a4b71",
+    "storage_bucket": "fir-mqtt-a4b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827484854634:android:b1e17d2495b27c08766d13",
+        "android_client_info": {
+          "package_name": "com.alejandroarevalo.firebasemqtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827484854634-6hnj5pmakfqn8k7oqgs8eui267n66fk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alejandroarevalo.firebasemqtt",
+            "certificate_hash": "2877424cd5d5b987bdbdb698e92fd6b7f79fee62"
+          }
+        },
+        {
+          "client_id": "827484854634-u5btnfiun1q8hsfkmr43f1pe1vjvqs2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYizjgJoMrLVsXIooqgrE_Uo4-EWQxQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827484854634-u5btnfiun1q8hsfkmr43f1pe1vjvqs2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
